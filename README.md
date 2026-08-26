@@ -12,6 +12,7 @@
 ✅ 掌握 AI Agent 工程和 Web3 的核心技能
 ✅ 学习完整行业技术体系
 ✅ 积累可落地的企业级 Web3+AI Agent 项目
+
 无论你是刚入门的小白，还是想拓宽技术边界的开发者，都可以在这里，用更聪明的方式，完成从 0 到 1 的 AI & Web3 开发进阶。
 
 [![bootcamp](./public/bootcamp.jpg)](./public/bootcamp.jpg)
