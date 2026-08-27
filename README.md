@@ -109,16 +109,6 @@
 
 **任何时间都可以提交作业，只是在截止时间之后提交的作业没有奖励。**
 
-| Task | 对应章节 | 学习奖励 | 截止提交时间 | 奖励发放 |
-| --- | --- | --- | --- | --- |
-| [task1](./task/task1.md) | 1. <章节标题> | <¥XX> | <月日>24:00:00(UTC+8) | [奖励发放记录](./reward/task1_bounty.md) |
-| [task2](./task/task2.md) | 2. <章节标题> | <¥XX> | <月日>24:00:00(UTC+8) | [奖励发放记录](./reward/task2_bounty.md) |
-| [task3](./task/task3.md) | 3. <章节标题> | <¥XX> | <月日>24:00:00(UTC+8) | [奖励发放记录](./reward/task3_bounty.md) |
-| [task4](./task/task4.md) | 4. <章节标题> | <¥XX> | <月日>24:00:00(UTC+8) | [奖励发放记录](./reward/task4_bounty.md) |
-| [task5](./task/task4.md) | 4. <章节标题> | <¥XX> | <月日>24:00:00(UTC+8) | [奖励发放记录](./reward/task4_bounty.md) |
-| [task6](./task/task4.md) | 4. <章节标题> | <¥XX> | <月日>24:00:00(UTC+8) | [奖励发放记录](./reward/task4_bounty.md) |
-| [task7](./task/task4.md) | 4. <章节标题> | <¥XX> | <月日>24:00:00(UTC+8) | [奖励发放记录](./reward/task4_bounty.md) |
-
 
 完成所有 Task 可直通 Avalanche 黑客松，获得官方深度指导与生态机会。
 
