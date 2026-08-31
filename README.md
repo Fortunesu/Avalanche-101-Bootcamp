@@ -110,25 +110,15 @@ Technology built for business.Avalanche 不仅兼容 **EVM**，更拥有独特�
 
 ---
 
-### 学习资源
 
-#### <技术/生态>
+### 关于 Team1
 
-1. [<官方文档名称>](<官方文档链接>)
-2. [<语言/框架入门>](<链接>)
-3. [<开发工具>](<链接>)
+Team1 is a global network of builders, developers, creatives, & community members who grow Avalanche.
 
-#### <通用方向，如 Web3 / 区块链>
+​With 600+ members operating across 40 countries, Team1 drives the democratization and global adoption of Avalanche by onboarding new users and projects through local meetups, targeted workshops, exclusive side events, engaging content creation and community-led initiatives...
 
-1. [<资源一>](<链接>)
-2. [<资源二>](<链接>)
+​By bridging online and offline communities, Team1 empowers grassroots innovation and expands the reach of Avalanche into new regions and cultures.
 
----
+### 关于 OpenBuild
 
-### 关于 <主办方>
-
-<主办方介绍，1-2 段，说明其定位、社区理念、专注方向等>
-
-### 关于 <合作方>
-
-<合作方介绍，如适用>
+​一个帮助 AI 和 Web3 建设者学习、交流并将想法落地的开发者社区。
