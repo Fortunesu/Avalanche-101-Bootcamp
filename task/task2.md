@@ -5,22 +5,24 @@
 
 ## 任务目标
 
-<说明本章目标，例如：掌握 <语言/框架，如 Solidity on C-Chain / Rust + Avalanche CLI> 的基础语法，能编译并部署一段最小合约/程序到 Fuji 测试网。>
+掌握 Vibe Coding 技巧，用 Scaffold-ETH 自己部署 ERC20 合约的应用
 
-## 前置资源
+## 参考资料
+Scaffold-ETH 项目开发模板
+https://scaffoldeth.io/
+https://github.com/scaffold-eth/scaffold-eth-2
 
-- 课程视频：[<课程链接>](<地址>)
-- 开发环境搭建指南：[<文档>](<地址>)
-- 官方文档：[<文档名称>](<地址>)
+领取 Avalanche Fuji 测试网 token
+https://build.avax.network/console/primary-network/faucet
 
 ## 任务要求
-
+把合约成功部署至Avalanche 测试网
 
 ## 提交方式
-
+提供部署成功后截图，以及链上合约的地址
 
 
 
 ## 截止时间
 
-<月日> 24:00:00 (UTC+8)。截止后提交的作业没有奖励。
+<9月6日> 24:00:00 (UTC+8)
