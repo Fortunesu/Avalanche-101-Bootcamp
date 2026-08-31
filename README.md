@@ -81,6 +81,8 @@
 
 **第七章：Perp Dex 开发最新实战——以Primit为例** | [课程](<课程链接>) 
 
+[课程链接](https://openbuild.xyz/learn/challenges/2108370654)
+
 ---
 
 ### 任务

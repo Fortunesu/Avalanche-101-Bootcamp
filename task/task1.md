@@ -5,9 +5,14 @@
 
 ## 任务目标
 
-截图：注册完成 [BuilderHub](https://build.avax.network/?ref=ZETMV&utm_source=team1) 的截图 
+任务一：截图：注册完成 [BuilderHub](https://build.avax.network/?ref=ZETMV&utm_source=team1) 的截图 
 
 参考截图可见 [作业参考](/public/作业参考.png)
+
+任务二：转发本 [课程报名链接](https://luma.com/1b83zb0x) 至小红书/推特/200+微信社群/微信朋友圈，并截图保存提交
+[可参考模板](/public/转发模板.md)
+
+图片命名方式：task1+你的名字
 
 ## 提交方式
 
