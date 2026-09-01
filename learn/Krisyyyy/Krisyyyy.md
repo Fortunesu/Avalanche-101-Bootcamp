@@ -1,8 +1,3 @@
-# 学员档案
-
-> 请将本文件复制到 `learn/<YourName>/<YourName>.md` 后填写。
-> `<YourName>` 请替换为你的 GitHub 用户名（保持一致，方便核对奖励）。
-
 ## 基本信息
 
 | 项目 | 内容 |
