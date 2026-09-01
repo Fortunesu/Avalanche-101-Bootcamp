@@ -21,11 +21,11 @@ https://build.avax.network/console/primary-network/faucet
 ## 提交方式
 提供部署成功后截图，以及链上合约的地址
 
-![task2](/learn\RoooyHe\task2RoooyHe.png)
+![task2](/learn/RoooyHe/task2RoooyHe.png)
 
 Hash: 0xf523a7db5cea659d8932effca92c045aa37318daa315eb9f5fafb3960277f871 
 
-![task2.2](/learn\RoooyHe\task2.2RoooyHe.png)
+![task2.2](/learn/RoooyHe/task2.2RoooyHe.png)
 
 ## 截止时间
 

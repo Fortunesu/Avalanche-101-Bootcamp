@@ -11,8 +11,8 @@
 
 任务二：转发本 [课程报名链接](https://luma.com/1b83zb0x) 至小红书/推特/200+微信社群/微信朋友圈，并截图保存提交
 
-![Task1-2.1](/learn\RoooyHe\task1.2.1RoooyHe.jpg)
-![Task1-2.2](/learn\RoooyHe\task1.2.2RoooyHe.jpg)
+![Task1-2.1](/learn/RoooyHe/task1.2.1RoooyHe.jpg)
+![Task1-2.2](/learn/RoooyHe/task1.2.2RoooyHe.jpg)
 
 图片命名方式：task1+你的名字
 
