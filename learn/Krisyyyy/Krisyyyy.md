@@ -2,7 +2,7 @@
 
 | 项目 | 内容 |
 | --- | --- |
-| GitHub 用户名 | <Krisyyyy> |
+| GitHub 用户名 | <Krisyyyy>|
 | 钱包地址（ETH钱包，用于发奖励） | <0xBC45D135f3eD5e3F4EE437C5C12aF723D1098075> |
 | 联系方式（微信 / Telegram / Discord） | <@mayonaiselili> |
 | 是否加入学习交流群 | <是> |
