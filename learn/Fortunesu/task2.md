@@ -42,7 +42,9 @@ https://build.avax.network/console/primary-network/faucet
 
 ---
 
+## 部署截图
 
+![Avalanche Fuji 部署成功截图](https://github.com/Fortunesu/Avalanche-101-Bootcamp/blob/main/learn/Fortunesu/task2-deploy.png?raw=true)
 
 ## 截止时间
 
