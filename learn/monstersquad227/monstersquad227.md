@@ -8,7 +8,7 @@
 | 项目 | 内容 |
 | --- | --- |
 | GitHub 用户名 | monstersquad227 |
-| 钱包地址（ETH钱包，用于发奖励） | 0xbE2AdaaAa545C35311E574c9596460865ADdEE8e |
+| 钱包地址（ETH钱包，用于发奖励） | 0x444eFe0Dd2D0d1c7Feecd752113aFC8555723DF6 |
 | 联系方式（微信 / Telegram / Discord） | vx:monster80227 |
 | 是否加入学习交流群 | 是 |
 
