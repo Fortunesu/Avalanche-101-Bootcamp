@@ -46,6 +46,12 @@ https://build.avax.network/console/primary-network/faucet
 
 ![Avalanche Fuji 部署成功截图](https://github.com/Fortunesu/Avalanche-101-Bootcamp/blob/main/learn/Fortunesu/task2-deploy.png?raw=true)
 
+## DApp 前端
+
+以下为 ERC-20 DApp 前端交互页面截图：
+
+![ERC-20 DApp 前端截图](https://github.com/Fortunesu/Avalanche-101-Bootcamp/blob/main/learn/Fortunesu/task2-dapp.png?raw=true)
+
 ## 截止时间
 
 <9月6日> 24:00:00 (UTC+8)
