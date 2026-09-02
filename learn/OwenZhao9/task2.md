@@ -30,15 +30,16 @@
 | 部署账户 | `0x2943E637f48Cca66c010cC02044E1286eA6C776d` |
 | 部署区块 | `58116521` |
 | 实际 gas 用量 | `694766` |
-| 区块浏览器 | https://testnet.snowtrace.io/address/0xf4da661854658f03246e294fe4c2c96732f99a07 |
+| 区块浏览器 | https://subnets-test.avax.network/c-chain/address/0xf4da661854658f03246e294fe4c2c96732f99a07 |
+| 备用浏览器 | https://testnet.snowtrace.io/address/0xf4da661854658f03246e294fe4c2c96732f99a07 |
 
 ### 部署成功截图
 
-<!-- 终端里 "🪙 ERC20 部署成功" 那段，以及 Snowtrace 上能查到合约的页面 -->
+<!-- 终端链上验证输出 + Avalanche 官方区块浏览器页面 -->
 
 ![部署成功](./task2-OwenZhao9-deploy.png)
 
-![Snowtrace 链上可查](./task2-OwenZhao9-snowtrace.png)
+![Avalanche 官方浏览器链上可查](./task2-OwenZhao9-explorer.png)
 
 ---
 
