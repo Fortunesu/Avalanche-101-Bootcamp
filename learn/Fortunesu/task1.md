@@ -5,7 +5,7 @@
 
 ## 任务目标
 
-任务一：截图：注册完成 [BuilderHub](https://build.avax.network/?ref=ZETMV&utm_source=team1) 的截图 
+任务一：截图：注册完成 [BuilderHub]([https://build.avax.network/?ref=ZETMV&utm_source=team1](https://github.com/Fortunesu/Avalanche-101-Bootcamp/blob/main/learn/Fortunesu/task1-fortunesu-builderhub.png)) 的截图 
 
 参考截图可见 [作业参考](/public/作业参考.png)
 
