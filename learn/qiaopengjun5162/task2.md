@@ -28,7 +28,7 @@ https://build.avax.network/console/primary-network/faucet
 - **合约名**：PaxonToken (PXN)
 - **部署交易**：`0x11535ac2bcf7f8aa882397015170d295d59e9a954ef0ebb236f2d1058bb5deb2`
 - **链上验证**：name=PaxonToken / symbol=PXN / totalSupply=10,000,000 / 部署者余额 10M PXN
-- **浏览器查看**：https://avascan.info/blockchain/c/address/0x0946C0490bA465e995Af6B0BAd5F2316E4C6B7B8
+- **浏览器查看（Fuji 测试网）**：https://testnet.avascan.info/blockchain/c/address/0x0946C0490bA465e995Af6B0BAd5F2316E4C6B7B8
 
 ![task2](/learn/qiaopengjun5162/task2qiaopengjun5162.png)
 
